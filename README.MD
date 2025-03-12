@@ -11,6 +11,10 @@ while you are in the directory containing env.yml file:
 
 conda env create -f env.yml
 
+After the environment is created, it has to be activated using:
+
+conda activate INVTzadatak
+
 The code can be run from CMD or PowerShell using:
 
 python INVTzadatak.py
